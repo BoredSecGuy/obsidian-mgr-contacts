@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-contacts",
+	"name": "obsidian-mgr-contacts",
 	"version": "1.0.0",
 	"description": "Allows you to manage and organize your contacts.",
 	"main": "main.js",
